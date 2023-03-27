@@ -1,0 +1,11 @@
+<app>
+     <id>appTest001</id>
+     <name>Exchange Rate (XE) Test</name>
+     <provider>Exchange Rate (XE)</provider>
+     <description>Exchange Rate WebApp</description>
+     <extensionpoint>
+          <location>DEPOSIT_ACCOUNT_VIEW</location>
+          <label>Exchange Rate (XE)</label>
+          <url>https://www.xe.com/currencyconverter/</url>
+     </extensionpoint>
+</app>
